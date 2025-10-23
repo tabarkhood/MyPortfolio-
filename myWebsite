@@ -114,7 +114,7 @@
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <img class="profile-image" src="https://raw.githubusercontent.com/tabarkhood/MyPortfolio-/main/Cybersecurity.jpeg" alt="Tabark Alsoud">
+            <img class="profile-image" src="Cybersecurity.jpeg" alt="Tabark Alsoud">
 
             <p>Welcome! I am passionate about cybersecurity and protecting digital assets.</p>
             <p>Name: Tabark Alsoud</p>
